@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fc.uni.edu.pe/wp-content/uploads/2024/10/cropped-logo_web_fc_uni-1.png" alt="Universidad Nacional de Ingeniería" width="180"/>
+  <img src="https://fc.uni.edu.pe/wp-content/uploads/2024/10/cropped-logo_web_fc_uni-1.png" alt="Universidad Nacional de Ingeniería" />
 </p>
 
 # MCC639K – Tópicos Especiales III: Visión Computacional Distribuida
